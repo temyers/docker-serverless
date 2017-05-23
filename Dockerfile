@@ -1,4 +1,4 @@
-FROM node:7.8
+FROM node:6.10
 
 LABEL maintainer=tim.myerscough@magentys.io
 
